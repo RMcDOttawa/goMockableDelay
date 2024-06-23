@@ -1,4 +1,4 @@
-package delaypkg
+package goMockableDelay
 
 import (
 	"fmt"

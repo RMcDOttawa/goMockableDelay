@@ -1,4 +1,4 @@
-package delaypkg
+package goMockableDelay
 
 //	goMockableDelay module provides a simple pass-through to the built-in time.Sleep
 //	delay functions.  This is done so that the delay functions can be mocked in tests.
