@@ -1,4 +1,4 @@
-module goMockableDelay
+module github.com/RMcDOttawa/goMockableDelay
 
 go 1.22
 
