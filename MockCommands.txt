@@ -1,0 +1,2 @@
+
+mockgen -destination=delay_mock.go -package=delaypkg . DelayService
